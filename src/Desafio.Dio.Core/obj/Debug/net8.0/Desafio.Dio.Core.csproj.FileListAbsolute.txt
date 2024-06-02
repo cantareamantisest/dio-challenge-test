@@ -1,0 +1,11 @@
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\bin\Debug\net8.0\Desafio.Dio.Core.deps.json
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\bin\Debug\net8.0\Desafio.Dio.Core.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\bin\Debug\net8.0\Desafio.Dio.Core.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.AssemblyInfoInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.AssemblyInfo.cs
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\refint\Desafio.Dio.Core.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\Desafio.Dio.Core.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Core\obj\Debug\net8.0\ref\Desafio.Dio.Core.dll

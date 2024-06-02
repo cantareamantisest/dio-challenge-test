@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.IoC\\Desafio.Dio.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\Desafio.Dio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\Desafio.Dio.Application.csproj",
+        "projectName": "Desafio.Dio.Application",
+        "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\Desafio.Dio.Application.csproj",
+        "packagesPath": "C:\\Users\\canta\\.nuget\\packages\\",
+        "outputPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj": {
+                "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj",
+        "projectName": "Desafio.Dio.Core",
+        "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj",
+        "packagesPath": "C:\\Users\\canta\\.nuget\\packages\\",
+        "outputPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\Desafio.Dio.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\Desafio.Dio.Identity.csproj",
+        "projectName": "Desafio.Dio.Identity",
+        "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\Desafio.Dio.Identity.csproj",
+        "packagesPath": "C:\\Users\\canta\\.nuget\\packages\\",
+        "outputPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.IoC\\Desafio.Dio.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.IoC\\Desafio.Dio.IoC.csproj",
+        "projectName": "Desafio.Dio.IoC",
+        "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.IoC\\Desafio.Dio.IoC.csproj",
+        "packagesPath": "C:\\Users\\canta\\.nuget\\packages\\",
+        "outputPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\Desafio.Dio.Application.csproj": {
+                "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Application\\Desafio.Dio.Application.csproj"
+              },
+              "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\Desafio.Dio.Identity.csproj": {
+                "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Identity\\Desafio.Dio.Identity.csproj"
+              },
+              "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\Desafio.Dio.Repository.csproj": {
+                "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\Desafio.Dio.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\Desafio.Dio.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\Desafio.Dio.Repository.csproj",
+        "projectName": "Desafio.Dio.Repository",
+        "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\Desafio.Dio.Repository.csproj",
+        "packagesPath": "C:\\Users\\canta\\.nuget\\packages\\",
+        "outputPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj": {
+                "projectPath": "C:\\DIO\\WEX\\desafio-teste-unitario\\src\\Desafio.Dio.Core\\Desafio.Dio.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\bin\Debug\net8.0\Desafio.Dio.Identity.deps.json
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\bin\Debug\net8.0\Desafio.Dio.Identity.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\bin\Debug\net8.0\Desafio.Dio.Identity.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.csproj.AssemblyReference.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.AssemblyInfoInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.AssemblyInfo.cs
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\refint\Desafio.Dio.Identity.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\ref\Desafio.Dio.Identity.dll

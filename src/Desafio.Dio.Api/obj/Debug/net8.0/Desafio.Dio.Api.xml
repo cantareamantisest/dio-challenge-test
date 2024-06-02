@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Desafio.Dio.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.AccountController.Register(Desafio.Dio.Identity.Models.RegisterRequest)">
+            <summary>
+            Cadastro de usuário.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="registerUser">Dados de cadastro do usuário</param>
+            <returns></returns>
+            <response code="200">Usuário criado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.AccountController.Login(Desafio.Dio.Identity.Models.LoginRequest)">
+            <summary>
+            Login do usuário via usuário/senha.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="userLogin">Dados de login do usuário</param>
+            <returns></returns>
+            <response code="200">Login realizado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.AccountController.RefreshLogin">
+            <summary>
+            Login do usuário via refresh token.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="200">Login realizado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.CategoryController.Get">
+            <summary>
+            Obter todas as categorias.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="200">Categorias obtidas com sucesso</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.CategoryController.Get(System.Int32)">
+            <summary>
+            Obter categoria por Id.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="id">Id da categoria</param>
+            <returns></returns>
+            <response code="200">Categoria obtida com sucesso</response>
+            <response code="404">Categoria não encontrada</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Desafio.Dio.Api.Controllers.v1.CategoryController.Post(Desafio.Dio.Core.Entities.Category)">
+            <summary>
+            Adicionar nova categoria.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="category">Dados da categoria</param>
+            <returns></returns>
+            <response code="201">Categoria adicionada com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Desafio.Dio.Api.props" />
+</Project>

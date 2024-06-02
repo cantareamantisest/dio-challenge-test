@@ -1,0 +1,17 @@
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Repository.deps.json
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Repository.runtimeconfig.json
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Repository.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Repository.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Core.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\bin\Debug\net8.0\Desafio.Dio.Core.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.csproj.AssemblyReference.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.AssemblyInfoInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.AssemblyInfo.cs
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.csproj.CopyComplete
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\refint\Desafio.Dio.Repository.dll
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.genruntimeconfig.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\ref\Desafio.Dio.Repository.dll
