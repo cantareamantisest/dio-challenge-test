@@ -6,6 +6,7 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desa
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.AssemblyInfoInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.AssemblyInfo.cs
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\refint\Desafio.Dio.Identity.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Identity\obj\Debug\net8.0\Desafio.Dio.Identity.pdb

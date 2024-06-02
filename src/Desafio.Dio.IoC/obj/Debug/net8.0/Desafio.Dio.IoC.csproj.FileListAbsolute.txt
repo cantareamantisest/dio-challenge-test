@@ -14,6 +14,7 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.D
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.AssemblyInfoInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.AssemblyInfo.cs
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.csproj.CopyComplete
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\Desafio.Dio.IoC.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.IoC\obj\Debug\net8.0\refint\Desafio.Dio.IoC.dll

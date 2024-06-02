@@ -469,6 +469,7 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\ne
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.AssemblyInfoInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.AssemblyInfo.cs
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.csproj.CopyComplete
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\Desafio.Dio.Integration.Tests.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Integration.Tests\obj\Debug\net8.0\refint\Desafio.Dio.Integration.Tests.dll

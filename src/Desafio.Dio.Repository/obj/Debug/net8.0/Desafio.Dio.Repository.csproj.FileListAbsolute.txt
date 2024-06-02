@@ -9,6 +9,7 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\De
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.AssemblyInfoInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.AssemblyInfo.cs
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.csproj.CopyComplete
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\Desafio.Dio.Repository.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Repository\obj\Debug\net8.0\refint\Desafio.Dio.Repository.dll

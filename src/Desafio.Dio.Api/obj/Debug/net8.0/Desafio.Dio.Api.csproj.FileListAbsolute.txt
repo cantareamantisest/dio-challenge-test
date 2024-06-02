@@ -143,6 +143,7 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\Desafio.D
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\Desafio.Dio.Api.csproj.CoreCompileInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\Desafio.Dio.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\Desafio.Dio.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\Desafio.Dio.Api.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Api\obj\Debug\net8.0\staticwebassets\msbuild.Desafio.Dio.Api.Microsoft.AspNetCore.StaticWebAssets.props

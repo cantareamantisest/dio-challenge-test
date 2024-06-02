@@ -1,10 +1,4 @@
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Desafio.Dio.Tests
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.csproj.AssemblyReference.cache
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.AssemblyInfoInputs.cache
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.AssemblyInfo.cs
-C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.csproj.CoreCompileInputs.cache
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\testhost.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio.Dio.Api.deps.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio.Dio.Api.runtimeconfig.json
@@ -469,6 +463,13 @@ C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio.Dio.Identity.pdb
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio.Dio.IoC.pdb
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\bin\Debug\net8.0\Desafio.Dio.Repository.pdb
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.csproj.AssemblyReference.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.AssemblyInfoInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.AssemblyInfo.cs
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.csproj.CoreCompileInputs.cache
+C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.sourcelink.json
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.csproj.CopyComplete
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\Desafio.Dio.Tests.dll
 C:\DIO\WEX\desafio-teste-unitario\src\Desafio.Dio.Tests\obj\Debug\net8.0\refint\Desafio.Dio.Tests.dll
