@@ -4,7 +4,7 @@ RESTful API do Desafio do Bootcamp Avanade 2024 construída em .Net 8.0.
 
 Esta API é um projeto elaborado em C#, que serve como base para elaboração dos testes unitários e testes de integração.
 
-Somente os endpoints `Get`, `GetById` e `Post` foram implementados para a controller Category. No entanto por se tratar de um projeto bem estruturado, ele pode ser facilmente escalado para implementação dos demais endpoints.
+Somente os endpoints `Get`, `GetById` e `Post` foram implementados para a controller Category. No entanto por se tratar de um projeto bem estruturado, ele é facilmente escalável para implementação dos demais endpoints.
 
 ## Principais Tecnologias
 
